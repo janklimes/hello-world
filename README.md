@@ -1,1 +1,2 @@
 # hello-world
+Ahoj lidi!
